@@ -1,1 +1,3 @@
 I leave for Portland tomorrow, and I'm very exited!
+I ran the git config on Monday and since I've changed my Git Hub repo I would like to make sure the config is still active.
+My gut feeling says that it is, but my lack of experience tells me I need to find out!
